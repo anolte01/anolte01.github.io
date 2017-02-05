@@ -1,0 +1,19 @@
+/* rules for the body of my index page */
+body{
+    background-color: teal;
+    font-family : helvetica;
+    text-align  : center;
+    font-size : 16px;
+    color : white;
+}
+
+/* Nicely scale the image */
+img{
+    width : 320px;
+    height : auto;
+}
+
+/* Necessary to override default link color behavior */
+a{
+    color :white;
+}

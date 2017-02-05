@@ -1,0 +1,33 @@
+/* This is my CSS file with 5 rules */
+
+/* basic formatting for the page */
+body{
+    background-color: teal;
+    font-family : helvetica;
+    margin-left: 2%;
+}
+
+/* style for section heads */
+h3{
+    text-decoration : underline;
+    font-weight : bold;
+    font-style: italic;
+}
+
+/* styling for my name */
+#name{
+    text-align: center;
+    font-style: italic;
+}
+
+/* styling for minor detail elements */
+.detail{
+    font-style : italic;
+    font-weight : lighter;
+    color : darkgrey;
+}
+
+/* styling for topics */
+.topic{
+    font-weight : bold;
+}
